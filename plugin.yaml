@@ -1,0 +1,6 @@
+plugin:
+    name: 'munxar.formwidgets::lang.plugin.name'
+    description: 'munxar.formwidgets::lang.plugin.description'
+    author: Munxar
+    icon: oc-icon-code
+    homepage: ''
